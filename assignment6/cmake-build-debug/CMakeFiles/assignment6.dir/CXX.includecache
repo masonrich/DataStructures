@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/masonrich/Desktop/C++/CS2420/assignment6/main.cpp
+cstdio
+-
+random
+-
+thread
+-
+mutex
+-
+iostream
+-
+vector
+-
+memory
+-
+string
+-
+sstream
+-
+stdio.h
+-
+
