@@ -1,0 +1,3 @@
+/Users/masonrich/Desktop/C++/CS2420/Assignment1CS2420/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/masonrich/Desktop/C++/CS2420/Assignment1CS2420/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/masonrich/Desktop/C++/CS2420/Assignment1CS2420/cmake-build-debug/CMakeFiles/Assignment1CS2420.dir
