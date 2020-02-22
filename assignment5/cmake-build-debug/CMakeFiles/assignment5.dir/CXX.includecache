@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/masonrich/Desktop/C++/CS2420/assignment5/main.cpp
+iostream
+-
+map
+-
+list
+-
+string
+-
+sstream
+-
+functional
+-
+chrono
+-
+
