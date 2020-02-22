@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/masonrich/Desktop/C++/CS2420/assignment7/main.cpp
+iostream
+-
+string
+-
+stack
+-
+sstream
+-
+cmath
+-
+conio.h
+-
+stdio.h
+-
+
